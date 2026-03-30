@@ -40,7 +40,7 @@ Static website successfully hosted using Azure
 
 ## Author
 
-Charumathi
+Charumathi Kumar
 
 
 
