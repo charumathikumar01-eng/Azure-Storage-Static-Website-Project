@@ -20,19 +20,19 @@ Static Website
 ## Project Screenshot
 
 ## Storage Account Overview
-![Storage Account Overview](Storage Account Overview.PNG)
+![Storage Account Overview](storageaccount.PNG)
 
 ## Enabled Static Website 
-![Enabled Static Website](Static Website Enabled.PNG)
+![Enabled Static Website](staticwebsite.PNG)
 
 ## $web Container inside Container
-![$web Container inside Container]($web Container.PNG)
+![$web Container inside Container](container.PNG)
 
-## index.html File Inside Container
-![index.html File Inside Container](index.html File Inside Container.PNG)
+## index File Inside Container
+![index File Inside Container](indexfile.PNG)
 
 ## Website Running
-![Website Running](Website Running.PNG)
+![Website Running](output.PNG)
 
 ## Outcome
 
