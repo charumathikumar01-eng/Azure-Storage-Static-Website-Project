@@ -31,7 +31,7 @@ Static Website
 ## index File Inside Container
 ![index File Inside Container](indexfile.PNG)
 
-## Website Running
+## Website
 ![Website Running](output.PNG)
 
 ## Outcome
