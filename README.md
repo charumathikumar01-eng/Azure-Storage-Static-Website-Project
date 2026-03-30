@@ -36,7 +36,7 @@ Static Website
 
 ## Outcome
 
-Static website successfully hosted using Azure
+Static website successfully hosted using Azure Blob Storage
 
 ## Author
 
